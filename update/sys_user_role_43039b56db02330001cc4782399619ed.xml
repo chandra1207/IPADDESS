@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_206825_ipaddress.getipaddressfromweb_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>getipaddressfromweb_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-17 16:01:17</sys_created_on>
+        <sys_id>43039b56db02330001cc4782399619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_206825_ipaddress.getipaddressfromweb_user</sys_name>
+        <sys_package display_value="IPAddressInfo" source="x_206825_ipaddress">07009316db02330001cc47823996196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPAddressInfo">07009316db02330001cc47823996196d</sys_scope>
+        <sys_update_name>sys_user_role_43039b56db02330001cc4782399619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-17 16:01:17</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="getipaddressfromweb" language="en" table="x_206825_ipaddress_getipaddressfromweb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>getipaddressfromweb</label>
+            <language>en</language>
+            <name>x_206825_ipaddress_getipaddressfromweb</name>
+            <plural>getipaddressfromwebs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 16:01:18</sys_created_on>
+            <sys_id>1b03db96db02330001cc478239961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>getipaddressfromweb</sys_name>
+            <sys_package display_value="IPAddressInfo" source="x_206825_ipaddress">07009316db02330001cc47823996196d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPAddressInfo">07009316db02330001cc47823996196d</sys_scope>
+            <sys_update_name>sys_documentation_x_206825_ipaddress_getipaddressfromweb__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 16:01:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

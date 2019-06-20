@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="auth1">0413eb12db42330001cc478239961985</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>ex1</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>GET https://dev76383.service-now.com/api/now/table/x_206823_batch1_servicenowstudents</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-17 17:12:08</sys_created_on>
+        <sys_id>9542e312db42330001cc4782399619bf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ex1</sys_name>
+        <sys_package display_value="IPAddressInfo" source="x_206825_ipaddress">07009316db02330001cc47823996196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPAddressInfo">07009316db02330001cc47823996196d</sys_scope>
+        <sys_update_name>sys_rest_message_9542e312db42330001cc4782399619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-17 17:18:03</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>

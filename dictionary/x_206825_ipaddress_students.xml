@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Students" max_length="40" name="x_206825_ipaddress_students" type="collection">
+        <element label="Classes Attended" max_length="40" name="classes_attended" type="string"/>
+        <element label="Classes Conducted" max_length="40" name="classes_conducted" type="string"/>
+        <element label="Contact Number" max_length="40" name="contact_number" type="string"/>
+        <element label="Department" max_length="40" name="department" type="string"/>
+        <element label="Email Id" max_length="40" name="email_id" type="string"/>
+        <element label="Name of the Student" max_length="40" name="name_of_the_student" type="string"/>
+        <element label="Parent Number" max_length="40" name="parent_number" type="string"/>
+        <element label="Percentage" max_length="40" name="percentage" type="string"/>
+        <element label="Roll Number" max_length="40" name="roll_number" type="string"/>
+    </element>
+</database>
